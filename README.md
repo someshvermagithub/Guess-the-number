@@ -3,7 +3,16 @@ This is a kind of game in which we as a user has to guess a number .And ,it has 
 
 
 I used libraries like -
+
+
 import java.util.Random;
-import java.util.Scanner;
-  AND 
-And used object orientated programming
+
+
+
+import java.util.Scanner;  
+ 
+  
+ AND 
+  
+  
+ used object orientated programming
